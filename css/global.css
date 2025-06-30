@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --blue: #31A8DD;
+    --light-blue: #33A8DB;
+    --dark-blue: #1472B7;
+    --white: #FFFFFF;
+    --font-family: 'Raleway', sans-serif;
+    --title-lg: 40px;
+    --tile-md: 32px;
+    --subtitle: 20px;
+    --title-sm: 16px;
+}
+
+body {
+    font-family: var(--font-family);
+}
+
+header {
+    background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(49, 168, 221, .2), rgba(0, 0, 0, .6)), url(../assets/images/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
