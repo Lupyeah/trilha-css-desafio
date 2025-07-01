@@ -41,7 +41,7 @@
         color: var(--blue);
         font-weight: 900;
         font-size: var(--title-sm);
-        letter-spacing: 21%;
+        letter-spacing: 4px;
         text-transform: uppercase;
         background-color: transparent;
         padding: 19px 46px;
