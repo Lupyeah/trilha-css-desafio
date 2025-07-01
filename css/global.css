@@ -18,10 +18,31 @@
 
 body {
     font-family: var(--font-family);
+    background-color: black;
 }
 
 header {
     background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(49, 168, 221, .2), rgba(0, 0, 0, .6)), url(../assets/images/banner.png);
     background-repeat: no-repeat;
     background-size: cover;
+    border-bottom: 1px solid var(--light-blue);
+}
+
+#course-content {
+    border-bottom: 1px solid var(--light-blue);
+}
+
+#transform-world {
+    background-image: url(../assets/images/woman-code.png);
+    background-attachment: fixed;
+    background-size: cover;
+    border-bottom: 1px solid var(--light-blue);
+}
+
+#professional-challenges {
+    border-bottom: 1px solid var(--light-blue);
+}
+
+footer {
+    background-image: linear-gradient(rgba(50, 168, 219, .0), rgba(50, 168, 219, .2));
 }
