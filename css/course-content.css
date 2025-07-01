@@ -1,0 +1,40 @@
+#course-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-block: 64px 120px;
+    gap: 24px;
+
+    h2 {
+        color: var(--light-blue);
+        text-transform: uppercase;
+        letter-spacing: 19%;
+        font-weight: 700;
+        font-size: var(--tile-md);
+    }
+
+    p {
+        width: 792px;
+        color: var(--white);
+        font-size: var(--title-sm);
+        text-align: center;
+    }
+
+    .module {
+        color: var(--white);
+        background-color: #252525;
+        width: 535px;
+        height: 51px;
+        border-radius: 57px;
+        padding: 16px 0px;
+        text-align: center;
+        border: var(--light-blue) solid 1px;
+        box-shadow: inset -5px 6px 4px #00000066;
+        font-size: var(--title-sm);
+        margin-bottom: 24px;
+
+        span {
+            color: var(--light-blue);
+        }
+    }
+}
