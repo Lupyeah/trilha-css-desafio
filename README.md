@@ -14,5 +14,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 Primeiro desafio da DIO!
-- [Para ver no site](https://lupyeah.github.io/trilha-css-desafio/)
 ---
