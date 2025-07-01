@@ -13,5 +13,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Figma
 
 ## 💻 Projeto
+Um formulário de matrícula escolar!
+- [Para ver no site](https://lupyeah.github.io/trilha-css-desafio/)
+
+## 💻 Projeto
 Primeiro desafio da DIO!
 ---
