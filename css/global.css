@@ -28,15 +28,11 @@ header {
     border-bottom: 1px solid var(--light-blue);
 }
 
-#course-content {
-    border-bottom: 1px solid var(--light-blue);
-}
-
 #transform-world {
     background-image: url(../assets/images/woman-code.png);
     background-attachment: fixed;
     background-size: cover;
-    border-bottom: 1px solid var(--light-blue);
+    border: 1px solid var(--light-blue);
 }
 
 #professional-challenges {

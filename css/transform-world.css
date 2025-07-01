@@ -1,0 +1,13 @@
+#transform-world {
+    height: 363px;
+
+    p {
+        font-size: var(--title-lg);
+        font-weight: 900;
+        color: var(--white);
+        text-transform: lowercase;
+        width: 244px;
+        text-shadow: 3px 2px #33A8DB;
+        margin: 111px 997px 111px 198px;
+    }
+}
